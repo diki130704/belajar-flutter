@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib\\listview\\list_seperated.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib\\listview\\list_seperated.dart"
+    }
+  ]
+}
